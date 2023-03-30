@@ -9,7 +9,7 @@
 ### Skills covered:
 1. Python
 2. Fetching historical price data using Tradingview API
-3. Pandas, Matplotlib, Seaborn
+3. Pandas, Matplotlib, Seaborn and interactive charts in Plotly
 4. Feature Engineering
 5. Sklearn for model building, hyperparameter tuning
 6. Analysis of classification report and confusion matrix
