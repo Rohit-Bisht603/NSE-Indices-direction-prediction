@@ -14,6 +14,6 @@
 5. Sklearn for model building, hyperparameter tuning
 6. Analysis of classification report and confusion matrix
 7. Jupyter notebook and pycharm as IDE 
-8. Streamlit for building web apps quickly
+8. Streamlit for building web apps
 
 ![https://raw.githubusercontent.com/Rohit-Bisht603/NSE-Indices-direction-prediction/master/indapp.png](https://raw.githubusercontent.com/Rohit-Bisht603/NSE-Indices-direction-prediction/master/indapp.png)
