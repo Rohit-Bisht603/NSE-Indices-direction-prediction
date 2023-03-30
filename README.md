@@ -4,6 +4,7 @@
 -Feature engineering and hyperparameter tuning for highest precision score
 -Training the model and analyzing classification report and confusion matrix
 -Improving model precision for long positions by experimenting with features
+-Building a web app using Streamlit framework of python
 
 ### Skills covered:
 1. Python
